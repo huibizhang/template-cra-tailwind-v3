@@ -20,7 +20,7 @@ function App() {
           }
         </style>
         <p className="flex flex-col gap-5 py-5">
-          <h1 className="bg-gradient-to-r text-5xl font-black text-transparent from-orange-200 to-sky-300">
+          <h1 className="bg-gradient-to-r from-orange-200 to-sky-300 bg-clip-text text-5xl font-black text-transparent">
             CRA + tailwindcss v3
           </h1>
           <p>
